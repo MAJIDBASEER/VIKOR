@@ -10,5 +10,7 @@ S. Opricovic had developed the basic ideas of VIKOR in his Ph.D. dissertation in
 
 # Calculations 
 
-The MCDM problem is stated as follows:
-Determine the best (compromise) solution in multicriteria sense from the set of J feasible alternatives A1, A2, ...AJ, evaluated according to the set of n criterion functions. The input data are the elements fij of the performance (decision) matrix, where fij is the value of the i-th criterion function for the alternative Aj.
+The MCDM problem is  calculated as following.
+
+Determine the best (compromise) solution in multicriteria sense from the set of J feasible alternatives A1, A2, ...AJ, evaluated according to the set of n criterion functions.
+The input data are the elements fij of the performance (decision) matrix, where fij is the value of the i-th criterion function for the alternative Aj.
